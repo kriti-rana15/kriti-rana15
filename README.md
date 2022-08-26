@@ -1,16 +1,16 @@
-# Be Pacific!! &nbsp; [![GitHub followers](https://img.shields.io/github/followers/pacific-prashant.svg?style=social&label=Followers)](https://github.com/pacific-prashant?tab=followers)  <img align="right" src="https://profile-counter.glitch.me/pacific-prashant/count.svg" />
+# Be Creative!! &nbsp; [![GitHub followers](https://img.shields.io/github/followers/kriti-rana15.svg?style=social&label=Followers)](https://github.com/kriti-rana15?tab=followers)  <img align="right" src="https://profile-counter.glitch.me/kriti-rana15/count.svg" />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=63C5DA&size=30&lines=Hey!+It's+Prashant!;I'm+a+learning+developer...;I'm+a+CRAZY+Badminton+Player;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
-## Here's some fun facts about me: <img width="120" align="right" src="https://user-images.githubusercontent.com/83504276/146778999-93e901fd-80eb-4118-8a0d-39df011e32b4.png">
+## Knoiw me more : <img width="120" align="right" src="https://user-images.githubusercontent.com/83504276/146778999-93e901fd-80eb-4118-8a0d-39df011e32b4.png">
 
   -  **I am a ***Coder***⚡🧙🏻‍♂️**
-  -  **I'm a enthusiastic web designer👩🏻‍💻**
+  -  **I'm a content creator👩🏻‍💻**
   -  **I am a true Astronomy lover 🔬**
-  -  **I'm eager to Learn and udertake new challenges 🌊**
+  -  **I'm open to learn and take challenges 🌊**
 
 <hr><br>
 
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pacific-prashant&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0A0015&fire=00B1DD&ring=00C0DD&currStreakLabel=00C6DD">
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kriti-rana15&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=0A0015&fire=00B1DD&ring=00C0DD&currStreakLabel=00C6DD">
      
 <br><hr>
 
@@ -20,5 +20,5 @@
 <br><br><br>
 
 ### Wanna engage in sticker fights : :upside_down_face:
-  <a href="https://wa.me/918439805903"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> &nbsp; <a href="mailto:prashantyadav230302@gmail.co "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;  <a href="https://pacific-prashant.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="mailto:kritirana874@gmail.com "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;  <a href="https://kriti-rana15.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   
