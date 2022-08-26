@@ -21,6 +21,6 @@
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 <br><br><br>
 
-### Wanna engage in sticker fights : :upside_down_face:
+### Ping me here! : :upside_down_face:
 <a href="mailto:kritirana874@gmail.com "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;  <a href="https://kriti-rana15.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   
