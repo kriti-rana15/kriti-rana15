@@ -23,5 +23,5 @@
 
 ### Ping me here! : :upside_down_face:
 <a href="mailto:kritirana874@gmail.com "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;  <a href="https://kriti-rana15.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-**<a href="https://www.linkedin.com/in/kriti-rana-6aa97721b/"><img src="https://img.shields.io/badge/linkedin-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp; **
+**<a href="https://www.linkedin.com/in/kriti-rana-6aa97721b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp; **
   
