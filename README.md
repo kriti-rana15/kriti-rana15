@@ -4,7 +4,9 @@
 ## Know me little more : <img width="120" align="right" src="https://user-images.githubusercontent.com/83504276/146778999-93e901fd-80eb-4118-8a0d-39df011e32b4.png">
 
   -  **I am a ***Coder***⚡🧙🏻‍♂️**
-  -  **I'm a content creator👩🏻‍💻**
+  -  **I am a ***DSA LOVER***⚡🧙🏻‍♂️**
+  -  **I'm a Spiritual person👩🏻‍💻**
+  -  **I'm a DATA LEARNER👩🏻‍💻**
   -  **I am an infinite Astronomy lover 🔬**
   -  **I'm open to learn and take challenges 🌊**
 
